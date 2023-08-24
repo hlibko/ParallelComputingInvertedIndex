@@ -1,3 +1,3 @@
-# Інвертований індекс
+# Inverted Index
 
-У файлі "InvertedIndexServer/ClientObject.cs" вказати свій шлях до директорій, де зберігаються документи для індексування.
+In the "InvertedIndexServer/ClientObject.cs" file, specify your path to the directories where the documents for indexing are stored.
